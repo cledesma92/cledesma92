@@ -220,6 +220,13 @@ header {
   color: var(--color-white);
 }
 
+#link-menu{
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+
 nav {
   padding: 4px 7px;
   border-radius: 5px;
@@ -699,3 +706,5 @@ footer {
     margin: 10px 0 20px 0;
   }
 }
+
+nav
