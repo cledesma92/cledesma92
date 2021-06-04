@@ -202,10 +202,10 @@ header {
 .header-navbar {
   z-index: 2;
   height: max-content;
-  width: fit-content;
-  top: 30px;
-  left: 30px;
-  right: 30px;
+  width: 100%;
+  margin: 30px;
+  top: 0;
+  right: 0;
   position: fixed;
 }
 
@@ -220,12 +220,11 @@ header {
   color: var(--color-white);
 }
 
-#link-menu{
+#link-menu {
   position: absolute;
   top: 0;
   right: 0;
 }
-
 
 nav {
   padding: 4px 7px;
@@ -706,5 +705,3 @@ footer {
     margin: 10px 0 20px 0;
   }
 }
-
-nav
