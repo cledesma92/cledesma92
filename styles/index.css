@@ -704,4 +704,8 @@ footer {
   .header-container__social-media {
     margin: 10px 0 20px 0;
   }
+
+  .banner-container__scroll {
+    display: none;
+  }
 }
