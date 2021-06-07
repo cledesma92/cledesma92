@@ -206,7 +206,7 @@ header {
   margin: 30px;
   top: 0;
   right: 0;
-  position: fixed;
+  position: absolute;
 }
 
 .header-navbar__container-title {
@@ -234,7 +234,8 @@ nav {
   height: min-content;
 }
 
-a nav {
+a nav,
+.button-home a {
   color: var(--color-primary);
 }
 
@@ -299,17 +300,8 @@ button {
 }
 
 .header-container__social-media a,
-.header-container__social-media a:visited,
 button a,
-button a:hover,
-button a:focus,
-button a:active,
-button a:visited,
-.banner-container__scroll a,
-.banner-container__scroll a:hover,
-.banner-container__scroll a:focus,
-.banner-container__scroll a:active,
-.banner-container__scroll a:visited {
+.banner-container__scroll a {
   text-decoration: none;
   color: white;
 }
@@ -356,14 +348,31 @@ ul a:hover {
   max-height: 0;
   overflow: hidden;
   transition: max-height 0.5s;
-  position: fixed;
+  position: absolute;
   top: 75px;
   right: 30px;
   border-radius: 5px;
 }
 
 .header-navbar__navegation.menu-desplegado {
-  max-height: 210px;
+  max-height: 175px;
+}
+
+/* ESTILOS DE BUTTON HOME */
+.button-home {
+  z-index: 1;
+  display: flex;
+  background-color: var(--color-terciary);
+  color: var(--color-primary);
+  opacity: 85%;
+  border-radius: 50%;
+  margin: 30px 30px 0 auto;
+  padding: 10px;
+  width: max-content;
+  height: max-content;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 30px;
 }
 
 /* ESTILOS DE SKILL SECTION */
