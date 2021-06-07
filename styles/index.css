@@ -322,11 +322,7 @@ ul {
   margin: 0;
 }
 
-ul a,
-ul a:hover,
-ul a:focus,
-ul a:active,
-ul a:visited {
+ul a {
   color: var(--color-font);
 }
 
@@ -340,6 +336,10 @@ ul a {
 }
 ul a:hover {
   background-color: var(--color-white);
+}
+
+ul i {
+  padding-left: 10px;
 }
 
 .header-navbar__navegation {
