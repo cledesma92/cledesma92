@@ -595,7 +595,7 @@ h3 {
   color: white;
 }
 
-/* ESTILO DE CANTACTME SECTION */
+/* ESTILO DE CONTACTME SECTION */
 #contactme {
   color: var(--color-font);
 }
@@ -621,6 +621,7 @@ input {
   border: 0;
   resize: none;
   overflow-y: auto;
+  outline: none;
 }
 
 /* ESTILOS DEL FOOTER */
