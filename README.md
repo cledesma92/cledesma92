@@ -12,6 +12,7 @@ ___
 - [Mi portfolio web][website]
 - [La web de mi emprendimiento][cvconestilo]
 - [Café oslo - página de ficticia][oslo]
+- [Prueba 0001][prueba 001]
 
 ___
 
@@ -31,3 +32,4 @@ ___
 [instagram]: https://instagram.com/cvconestilo
 [cvconestilo]: https://cvconestilo.netlify.app/
 [oslo]: https://cafeoslo.netlify.app/
+[prueba 001]: https://codepen.io/cledesma92-the-flexboxer/pen/OJpdeXb
