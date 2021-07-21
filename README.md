@@ -10,6 +10,7 @@
 - [Mi portfolio web][website]
 - [La web de mi emprendimiento][cvconestilo]
 - [Café oslo - página de ficticia][oslo]
+- [jQuery Covid-19][CovidARG]
 
 ### Languajes y herramientas:
 
@@ -27,3 +28,4 @@
 [instagram]: https://instagram.com/cvconestilo
 [cvconestilo]: https://cvconestilo.netlify.app/
 [oslo]: https://cafeoslo.netlify.app/
+[CovidARG]: https://covidarg.netlify.app/
