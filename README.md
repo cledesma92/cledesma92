@@ -11,6 +11,7 @@
 - [La web de mi emprendimiento][cvconestilo]
 - [Café oslo - página de ficticia][oslo]
 - [jQuery Covid-19][CovidARG]
+- [Simon Dice][Simon Dice] 
 
 ### Languajes y herramientas:
 
@@ -29,3 +30,4 @@
 [cvconestilo]: https://cvconestilo.netlify.app/
 [oslo]: https://cafeoslo.netlify.app/
 [CovidARG]: https://covidarg.netlify.app/
+[Simon Dice]: https://juegodesimondice.netlify.app/
