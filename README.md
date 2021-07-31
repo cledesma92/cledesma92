@@ -11,7 +11,7 @@
 - [La web de mi emprendimiento][cvconestilo]
 - [Café oslo - página de ficticia][oslo]
 - [jQuery Covid-19][CovidARG]
-- [Simon Dice][Simon Dice] 
+- [Simon Dice][SimonSays] 
 
 ### Mis resúmenes
 - [Resumen del curso de Fundamentso de JavaScript - Platzi][Fundamentso de JavaScript - Platzi]
@@ -34,4 +34,5 @@
 [cvconestilo]: https://cvconestilo.netlify.app/
 [oslo]: https://cafeoslo.netlify.app/
 [CovidARG]: https://covidarg.netlify.app/
+[SimonSays]: https://juegodesimondice.netlify.app/
 [Fundamentso de JavaScript - Platzi]: https://github.com/cledesma92/resumen-de-curso-de-fundamentos-de-JavaScript/blob/main/Fundamentos%20de%20JavaScript.md
