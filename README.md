@@ -4,7 +4,7 @@
 - 🌱 Actualmente estoy aprendiendo todo 🤣
 - 🎨 Me gusta eplicar todos mis conocimientos de diseño en mis proyectos de desarrollo web
 - 🚀 Estoy aprendiendo Back-end y hasta inteligencia artificial y data science no paro 💪
-- 🧠 Me gusta enseñar porque es la unica forma de saber si realmente entiendo lo que pretendo explicar
+- 🧠 Me gusta enseñar porque si el alumno aprende entonces realmente comprendo lo que pretendo explicar ✅
 
 ### Algunos de mis trabajos
 - [Mi portfolio web][website]
