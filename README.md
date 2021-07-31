@@ -13,6 +13,10 @@
 - [jQuery Covid-19][CovidARG]
 - [Simon Dice][Simon Dice] 
 
+### Mis resúmenes
+- [Resumen del curso de Fundamentso de JavaScript - Platzi][Fundamentso de JavaScript - Platzi]
+
+
 ### Languajes y herramientas:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -30,4 +34,4 @@
 [cvconestilo]: https://cvconestilo.netlify.app/
 [oslo]: https://cafeoslo.netlify.app/
 [CovidARG]: https://covidarg.netlify.app/
-[Simon Dice]: https://juegodesimondice.netlify.app/
+[Fundamentso de JavaScript - Platzi]: https://github.com/cledesma92/resumen-de-curso-de-fundamentos-de-JavaScript/blob/main/Fundamentos%20de%20JavaScript.md
