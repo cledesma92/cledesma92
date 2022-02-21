@@ -1,13 +1,13 @@
 ## Hola, soy Christian Ledesma - [cledesma92][website] 👋
 
 ### Soy desarrollador web Front-end y diseñador gráfico
-- 🌱 Actualmente estoy aprendiendo todo 🤣
+- 🌱 Actualmente estoy aprendiendo todo
 - 🎨 Me gusta eplicar todos mis conocimientos de diseño en mis proyectos de desarrollo web
-- 🚀 Estoy aprendiendo Back-end y hasta inteligencia artificial y data science no paro 💪
 - 🧠 Me gusta enseñar porque si el alumno aprende entonces realmente comprendo lo que pretendo explicar ✅
 
 ### Algunos de mis trabajos
 - [Mi portfolio web][website]
+- [TODO machine][TODO]
 - [La web de mi emprendimiento][cvconestilo]
 - [Café oslo - página de ficticia][oslo]
 - [jQuery Covid-19][CovidARG]
@@ -27,7 +27,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br />
 
-[website]: https://cledesma92.netlify.app
+[website]: https://cledesma92.github.io/portfolio/
+[TODO]: https://cledesma92.github.io/todomachine/
 [youtube]: https://www.youtube.com/channel/UCwC0dGRBoKdQYqANnqYOhGA 
 [linkedin]: https://www.linkedin.com/in/cledesma92/
 [instagram]: https://instagram.com/cvconestilo
